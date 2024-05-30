@@ -11,6 +11,6 @@ Mentors:
 
 Members:
 
--[S Sri Vaishnavi](https://github.com/vaishnavi-1035)
+- [S Sri Vaishnavi](https://github.com/vaishnavi-1035)
 <br>
 
