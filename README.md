@@ -10,5 +10,5 @@ Mentors:
 - [Ampady B R](https://github.com/ampady06)
 
 Members:
-<br>
+-Prathamesh Kawtikwar
 
