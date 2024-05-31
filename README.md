@@ -10,5 +10,7 @@ Mentors:
 - [Ampady B R](https://github.com/ampady06)
 
 Members:
+
+- [S Sri Vaishnavi](https://github.com/vaishnavi-1035)
 <br>
 
