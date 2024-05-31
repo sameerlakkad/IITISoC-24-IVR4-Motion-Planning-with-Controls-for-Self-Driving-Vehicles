@@ -10,10 +10,8 @@ Mentors:
 - [Ampady B R](https://github.com/ampady06)
 
 Members:
-
--[Prathamesh Kawtikwar](https://github.com/ppk1709)
-
--[S Sri Vaishnavi](https://github.com/vaishnavi-1035)
+- [Prathamesh Kawtikwar](https://github.com/ppk1709)
+- [S Sri Vaishnavi](https://github.com/vaishnavi-1035)
 <br>
 
 
