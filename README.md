@@ -12,6 +12,7 @@ Mentors:
 Members:
 - [Prathamesh Kawtikwar](https://github.com/ppk1709)
 - [S Sri Vaishnavi](https://github.com/vaishnavi-1035)
+- Sameer Lakkad https://github.com/sameerlakkad
 <br>
 
 
